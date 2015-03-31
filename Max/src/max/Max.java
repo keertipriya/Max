@@ -8,7 +8,7 @@ public static void readWords() {
 try { 
 Scanner inFile = new Scanner(new FileReader("kp.txt")); 
 int min=Integer.MAX_VALUE; 
-int max = 0; 
+//int max = 0; 
 int mean = 0; 
 while (inFile.hasNextLine()) { 
 Scanner inLine = new 
