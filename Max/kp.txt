@@ -1,0 +1,5 @@
+keerti	  1	 10
+deepti 	  2	 20
+kaushaik 	  3	 30
+ganya 	  4	 40
+sudha 	  5	 50
